@@ -15,17 +15,16 @@
 
 <h2>Configuration Steps</h2>
 
-1.Make sure to sign into the Azure portal using global administrator or authentication policy administrator permission.
+1.Make sure to sign in to Microsoft 365 Admin center.
 
   <img src="https://i.imgur.com/vG2dwPp.jpg" alt="osTicket logo"/>
+  
+2.Click Setting > Org Settings.Then under Org Settings, choose Self-Service password reset.
 
-2.Search Azure Active Directory then select Password Reset from the on the left side.
-
-
-3.From the Properties page under the option Self-service password reset enabled, choose All.
+3.From the Self-service password reset enabled page click Go to the Azure portal to turn on self-service password reset.
 <img src="https://i.imgur.com/BvPfRJR.jpg" alt="osTicket logo"/>
 
-4. If the user group is not available, then choose No groups selected and then select Azure AD group and choose Select.
+4.Choose All as an option then click Save.
 
-5. Make sure to click Save to enable password reset.
-
+5.The next time a user log in they will be prompted with More information required to reset their password.
+<img src="https://i.imgur.com/0kTgm0h.jpg" alt="osTicket logo"/>
