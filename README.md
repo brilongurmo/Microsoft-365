@@ -22,11 +22,10 @@
 2.Search Azure Active Directory then select Password Reset from the on the left side.
 
 
-3.From the Properties page under the option Self-service password reset enabled, choose Selected.
+3.From the Properties page under the option Self-service password reset enabled, choose All.
+<img src="https://i.imgur.com/BvPfRJR.jpg" alt="osTicket logo"/>
 
 4. If the user group is not available, then choose No groups selected and then select Azure AD group and choose Select.
-	
-<img src="https://i.imgur.com/rwQgII3.jpg" alt="osTicket logo"/>
 
 5. Make sure to click Save to enable password reset.
 
