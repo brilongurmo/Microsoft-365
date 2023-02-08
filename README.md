@@ -1,7 +1,7 @@
 
 <h1>How to Enable self-service password reset in Microsoft 365</h1>
 
-<h2>Objective</h2>
+<h2>Objective: Microsoft 365 is a cloud platform that provides application services including Microsoft Teams, Outlook, Word and PowerPoint.</h2>
 
 
 <h2>Technology Used</h2>
