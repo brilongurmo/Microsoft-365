@@ -22,6 +22,7 @@
 2.Click Setting > Org Settings.Then under Org Settings, choose Self-Service password reset.
 
 3.From the Self-service password reset enabled page click Go to the Azure portal to turn on self-service password reset.
+
 <img src="https://i.imgur.com/BvPfRJR.jpg" alt="osTicket logo"/>
 
 4.Choose All as an option then click Save.
